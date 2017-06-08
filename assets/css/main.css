@@ -2,6 +2,14 @@
   font-family: Khula, sans-serif;
 }
 
+html, body,section{
+  height: 100%;
+  margin:0;
+  padding:0;
+  font-family: 'Khula', sans-serif;
+  background-color: ghostwhite;
+}
+
 /* utilities */
 .gray-dark{
   background-color: #3b444b;
@@ -64,4 +72,28 @@ input:focus{
   border-bottom-left-radius: 44px;
   border-bottom-right-radius: 44px;
   text-align: center;
+}
+
+.screen-case{
+  height: 42px;
+  background-color: darkgray;
+  padding: 3%;
+  border-radius: 5px;
+  margin-bottom: 5%;
+}
+
+.screen{
+  border-style: none;
+  width: 100%;
+  height: 40px;
+  font-weight: 800;
+  font-size: 30px;
+  text-align: right;
+  color: white;
+}
+
+hr{
+  background: white;
+  height: 2px;
+  border-style: none;
 }
