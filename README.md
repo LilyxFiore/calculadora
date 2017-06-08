@@ -9,4 +9,4 @@ Para esto usamos los siguientes eventos y funciones:
 .click()
 .preventDefault()
 
-[! imagen de calculadora](https://image.prntscr.com/image/Qxt-gUDYSgGvGsimX7LeNA.png)
+![imagen de calculadora](https://image.prntscr.com/image/Qxt-gUDYSgGvGsimX7LeNA.png)
