@@ -8,3 +8,5 @@ Para esto usamos los siguientes eventos y funciones:
 .eval()
 .click()
 .preventDefault()
+
+[! imagen de calculadora](https://image.prntscr.com/image/Qxt-gUDYSgGvGsimX7LeNA.png)
